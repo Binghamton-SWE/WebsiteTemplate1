@@ -1,7 +1,7 @@
 # WebsiteTemplate1
 **This is easiest to read in raw mode or in a text editor bc I suck at GitHub formatting.. sorry
 **Option 1 of a design for a personal website.. easy to customize and use!!
-Templates created by Maggie Cech
+Templates created by Maggie Cech -- mcech1@binghamton.edu
 
 This template is to be used for creation of a personal website, geared towards engineering students. It includes a home page with space for a brief introduction about yourself, activities section, and technical skills, as well as a page for projects, resume and links to different forms of contact (LinkedIn, GitHub, Email). 
 
